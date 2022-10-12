@@ -1,0 +1,49 @@
+﻿  Origem.c
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(6,9): error C3873: '0x201c': este caractere não é permitido como primeiro caractere de um identificador
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(6,21): error C2065: '“Resultado': identificador não declarado
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(6,21): warning C4047: 'função': 'const char *const ' difere em níveis de indireção de 'int'
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(6,9): warning C4024: 'printf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(6,21): error C2143: erro de sintaxe: ')' ausente antes de ':'
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(6,26): error C2017: sequência de escape inválida
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(6,27): error C3872: '0x201d': este caractere não é permitido em um identificador
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(6,34): error C2059: erro de sintaxe: ')'
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(8,9): error C3873: '0x201c': este caractere não é permitido como primeiro caractere de um identificador
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(8,21): error C2065: '“Resultado': identificador não declarado
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(8,21): warning C4047: 'função': 'const char *const ' difere em níveis de indireção de 'int'
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(8,9): warning C4024: 'printf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(8,21): error C2143: erro de sintaxe: ')' ausente antes de ':'
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(8,26): error C2017: sequência de escape inválida
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(8,27): error C3872: '0x201d': este caractere não é permitido em um identificador
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(8,34): error C2059: erro de sintaxe: ')'
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(10,9): error C3873: '0x201c': este caractere não é permitido como primeiro caractere de um identificador
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(10,21): error C2065: '“Resultado': identificador não declarado
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(10,21): warning C4047: 'função': 'const char *const ' difere em níveis de indireção de 'int'
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(10,9): warning C4024: 'printf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(10,21): error C2143: erro de sintaxe: ')' ausente antes de ':'
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(10,26): error C2017: sequência de escape inválida
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(10,27): error C3872: '0x201d': este caractere não é permitido em um identificador
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(10,34): error C2059: erro de sintaxe: ')'
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(12,9): error C3873: '0x201c': este caractere não é permitido como primeiro caractere de um identificador
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(12,21): error C2065: '“Resultado': identificador não declarado
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(12,21): warning C4047: 'função': 'const char *const ' difere em níveis de indireção de 'int'
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(12,9): warning C4024: 'printf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(12,21): error C2143: erro de sintaxe: ')' ausente antes de ':'
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(12,26): error C2017: sequência de escape inválida
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(12,27): error C3872: '0x201d': este caractere não é permitido em um identificador
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(12,34): error C2059: erro de sintaxe: ')'
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(14,9): error C3873: '0x201c': este caractere não é permitido como primeiro caractere de um identificador
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(14,21): error C2065: '“Resultado': identificador não declarado
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(14,21): warning C4047: 'função': 'const char *const ' difere em níveis de indireção de 'int'
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(14,9): warning C4024: 'printf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(14,21): error C2143: erro de sintaxe: ')' ausente antes de ':'
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(14,26): error C2017: sequência de escape inválida
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(14,27): error C3872: '0x201d': este caractere não é permitido em um identificador
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(14,34): error C2059: erro de sintaxe: ')'
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(16,9): error C3873: '0x201c': este caractere não é permitido como primeiro caractere de um identificador
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(16,21): error C2065: '“Resultado': identificador não declarado
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(16,21): warning C4047: 'função': 'const char *const ' difere em níveis de indireção de 'int'
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(16,9): warning C4024: 'printf': tipos diferentes para parâmetro formal e real 1
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(16,21): error C2143: erro de sintaxe: ')' ausente antes de ':'
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(16,26): error C2017: sequência de escape inválida
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(16,27): error C3872: '0x201d': este caractere não é permitido em um identificador
+C:\Users\Anime\Documents\Códigos\C\Project2\Project2\Origem.c(16,34): error C2059: erro de sintaxe: ')'

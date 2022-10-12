@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Anime\Documents\Códigos\C\Exercicios\Cap3Ex8\main.c(16,22): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Cap3Ex8.vcxproj -> C:\Users\Anime\Documents\Códigos\C\Exercicios\x64\Debug\Cap3Ex8.exe
